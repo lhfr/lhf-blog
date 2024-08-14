@@ -46,6 +46,10 @@ module.exports = {
             title: "限制 antd 日期选择范围",
             path: "/developExperience/disabledRangePicker",
           },
+          {
+            title: "antd 数字框大数处理",
+            path: "/developExperience/bigNumberInput",
+          },
         ],
       },
       {
